@@ -1,3 +1,7 @@
+---
+title: "Daily Blog Post 1"
+date: 2020-11-24
+---
 ## Daily Blog Post 1
 
 As I have said, there is absolutely nothing of interest in this blog. 
